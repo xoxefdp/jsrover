@@ -1,0 +1,13 @@
+.main {
+    background:yellow;
+    width: 240px;
+    height: 120px;
+    padding: 10px;
+}
+
+.sub {
+    background: lightblue;
+    width: 240px;
+    height: 120px;
+    padding: 10px;
+}
